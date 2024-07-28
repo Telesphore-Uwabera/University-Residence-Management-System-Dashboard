@@ -1,0 +1,12 @@
+body {
+    font-family: 'Livvic', sans-serif;
+}
+.nbr-notifications {
+    position: absolute;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 12px;
+    display: none;
+}

@@ -1,0 +1,142 @@
+
+body {
+    font-family: 'Livvic', sans-serif;
+    color: #333;
+  }
+  
+  h1, h3 {
+    color: #fff;
+  }
+  
+  .settings {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .settings .container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .settings .form-control {
+    border-radius: 4px;
+  }
+  
+  .settings .btn-primary {
+    background-color: #80AF81;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .settings .btn-primary:hover {
+    background-color: #80AF81;
+  }
+  
+  .notifications-container {
+    top: 60px;
+    right: 0;
+    width: 300px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: none;
+    z-index: 1000;
+  }
+  
+  .notifications {
+    padding: 10px;
+  }
+  
+  .notification-item {
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+  }
+  
+  .notification-item:last-child {
+    border-bottom: none;
+  }
+  
+  .dropdown-menu {
+    max-height: 200px;
+    overflow-y: auto;
+  }
+  
+  .dropdown-toggle::after {
+    display: none; 
+  }
+
+.settings {
+    background-color: #f8f9fa;
+    color: #333;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .settings .container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .settings .form-control {
+    border-radius: 4px;
+  }
+  
+  .settings .btn-primary {
+    background-color: #80AF81;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .settings .btn-primary:hover {
+    background-color: #80AF81;
+  }
+  
+  .notifications-container {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  /* Dark Mode Styles */
+  body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  body.dark-mode .settings {
+    background-color: #1e1e1e;
+  }
+  
+  body.dark-mode .settings .container {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+  }
+  
+  body.dark-mode .settings .form-control {
+    background-color: #3c3c3c;
+    color: #e0e0e0;
+    border: 1px solid #444;
+  }
+  
+  body.dark-mode .settings .btn-primary {
+    background-color: #80AF81;
+    color: #e0e0e0;
+  }
+  
+  body.dark-mode .settings .btn-primary:hover {
+    background-color: #80AF81;
+  }
+  
+  body.dark-mode .notifications-container {
+    background: #1e1e1e;
+    border: 1px solid #444;
+  }
+  
+  
