@@ -52,7 +52,7 @@ Contributions are welcome! Please submit issues, feature requests, or pull reque
 
 ## Authors
 
-- **[Telesphore Uwabera](https://github.com/TelesphoreUwabera)**
+- **[Telesphore Uwabera](https://github.com/Telesphore-Uwabera)**
 - **[Ruth Uwamahoro](https://github.com/Ruthuwamahoro)**
 - **[Placide SHEMA](https://github.com/PSHEMA)**
 - **[Henriette Tuombe](https://github.com/henriettetuombe)**
